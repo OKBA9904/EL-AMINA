@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Small Business Landing Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #f1f1f1;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      color: #333;
+      font-size: 24px;
+      margin: 0;
+    }
+
+    .social-icons {
+      list-style: none;
+      padding: 0;
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .social-icons li {
+      display: inline-block;
+      margin: 0 10px;
+    }
+
+    .social-icons li a {
+      color: #333;
+      text-decoration: none;
+      font-size: 20px;
+    }
+
+    .contact-info {
+      background-color: #f9f9f9;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .phone-number {
+      color: #333;
+      font-size: 18px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Your Small Business!</h1>
+    <ul class="social-icons">
+      <li><a href="https://www.instagram.com/el_amina_natural_products/"><img src="instagram.png" alt="Instagram"></a></li>
+      <li><a href="https://www.facebook.com/profile.php?id=100090272056174"><img src="facebook.png" alt="Facebook"></a></li>
+      <li><a href="https://www.tiktok.com/@elamina_natural_products?lang=en"><img src="tiktok.png" alt="TikTok"></a></li>
+    </ul>
+  </header>
+
+  <div class="contact-info">
+    <h2>Contact Us</h2>
+    <p>For any inquiries, please feel free to reach out:</p>
+    <p class="phone-number">Phone: <a href="tel:0560408739">0560408739</a></p>
+  </div>
+</body>
+</html>
